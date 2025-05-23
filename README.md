@@ -1,4 +1,4 @@
-# (Nombre del proyecto)
+# Tarjeta de cumpleaños para Abe
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## 1 Datos
