@@ -2,17 +2,17 @@
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## 1 Datos
-Titulo : Tarjeta para Abe :)
+Titulo : Tarjeta de Cumple para Abe :)
 
 Web: https://cntero.github.io/clara.github.io/
 
 Autor: Clara Montero Nogales
 
-Resumen : Este proyecto busca crear una página intercativa en la que aplicar
+Resumen : En este proyecto he desarrollado una página interactiva para aplicar los procedimientos necesarios para cumplir con la práctica 4.1 del módulo. En esta página, aparece una serie de juegos simples personalizados para un amigo, donde aparece una serie de imágenes personalizadas.
 
 Estilo/género: Página interactiva personalizada para felicitación.
 
-Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+Resolución: 600x400px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
 Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
