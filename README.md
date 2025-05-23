@@ -2,7 +2,7 @@
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## 1 Datos
-Titulo : MI Proyecto(nombre)
+Titulo : Tarjeta para Abe :)
 
 Web: (url github.io)
 
@@ -10,7 +10,7 @@ Autor: Clara Montero Nogales
 
 Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
 
-Estilo/género: Novela / juego / portfolio / documental... etc.
+Estilo/género: Página interactiva personalizada para felicitación.
 
 Logotipo : (insertar imagen y breve justificación, si tiene)
 
@@ -22,7 +22,7 @@ Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edg
 
 Tamaño proyecto: 14MB
 
-Fecha : 14/05/2025
+Fecha : 23/05/2025
 
 Medios (donde se tiene presencia relacionada):
 
