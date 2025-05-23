@@ -4,7 +4,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 ## 1 Datos
 Titulo : Tarjeta para Abe :)
 
-Web: (url github.io)
+Web: https://cntero.github.io/clara.github.io/
 
 Autor: Clara Montero Nogales
 
