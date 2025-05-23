@@ -12,10 +12,6 @@ Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo 
 
 Estilo/género: Página interactiva personalizada para felicitación.
 
-Logotipo : (insertar imagen y breve justificación, si tiene)
-
-(insertar imágenes a resolucion de 100px alto)
-
 Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
 Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
