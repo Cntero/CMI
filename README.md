@@ -16,16 +16,13 @@ Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y
 
 Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
-Tamaño proyecto: 14MB
+Tamaño proyecto: 32 KB
 
 Fecha : 23/05/2025
 
 Medios (donde se tiene presencia relacionada):
 
 Github:
-Twitter:
-Instagram:
-Tiktok:
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
