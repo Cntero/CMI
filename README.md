@@ -8,7 +8,7 @@ Web: (url github.io)
 
 Autor: Clara Montero Nogales
 
-Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+Resumen : Este proyecto busca crear una página intercativa en la que aplicar
 
 Estilo/género: Página interactiva personalizada para felicitación.
 
